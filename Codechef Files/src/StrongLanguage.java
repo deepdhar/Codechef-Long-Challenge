@@ -11,7 +11,6 @@ public class StrongLanguage {
 			int K = Integer.parseInt(scan.next());
 			String S = scan.next();
 			char c[] = S.toCharArray();
-			char d = '~';
 			int count=0;
 			
 			for(int i=0; i<c.length; i++) {
